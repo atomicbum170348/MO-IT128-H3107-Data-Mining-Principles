@@ -1,0 +1,10 @@
+Data preprocessing and feature engineering are vital in data mining as they enhance the quality and performance of data mining models. Data preprocessing ensures that raw data is clean, consistent, and ready for analysis, while feature engineering improves the model’s ability to capture patterns and make accurate predictions.
+
+This week, your task is to preprocess and engineer features of the FinMark Corporation datasets.
+
+To carry out this activity, follow the instructions below:
+
+1. Review the company business case here. Review the problem statement and download the required datasets.
+2. Load the datasets to Jupyter Notebook and perform the necessary data processing using Python.
+3. Once done, engineer new features to help the model arrive at better solutions to the outline problem statement.
+4. Save your output and prepare for a discussion with your team.
